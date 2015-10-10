@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Local Hack Day</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="left_side">Left Side!</string>
+    <string name="right_side">Right Side!</string>
     <string name="action_settings">Settings</string>
 </resources>
